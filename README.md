@@ -1,6 +1,6 @@
 # 🧮   CALCULADORA
 
-Projeto realizado no intuito de utilização de conceitos tais como, a utilização de grid, troca de tema (light/dark), utilização de copia para area de transferencia, limitações de botões atraves do DOM e funções de calculos simplificados atraves de funções.
+Projeto realizado no intuito de utilização de conceitos tais como, a utilização de grid, troca de tema (light/dark), utilização de copia para area de transferencia, limitações de botões atraves do DOM e funções de calculos simplificados.
 
 ![Preview](./.github/calculadora.png)
 
